@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXTVLCOPT:http-user-agent="tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
 #EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360"
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=kix&bandwidth=b684100&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=b684100&sync=0
 #EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540,NAME="540p"
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=kix&bandwidth=b894100&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=b894100&sync=0
 #EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720"
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=kix&bandwidth=default&sync=0
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=axn&bandwidth=default&sync=0
