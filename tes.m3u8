@@ -1,4 +1,9 @@
-#EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://google-me.cdn.booyah.live/hls/113130/83188269.m3u8?ZaNa_iptv.m3u8
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1280000
+http://dgtvpro.000webhostapp.com/up/dosa.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://dgtvpro.000webhostapp.com/up/dosa.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+http://dgtvpro.000webhostapp.com/up/dosa.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000,CODECS="mp4a.40.5,avc1.42801e"
+http://dgtvpro.000webhostapp.com/up/dosa.m3u8
