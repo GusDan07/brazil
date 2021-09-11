@@ -1,4 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTVLCOPT:http-user-agent="tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
+#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360"
+http://dgtvpro.000webhostapp.com/up/dosa.mp4
+#EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540,NAME="540p"
+http://dgtvpro.000webhostapp.com/up/dosa.mp4
+#EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720"
 http://dgtvpro.000webhostapp.com/up/dosa.mp4
